@@ -1,3 +1,3 @@
 # Service Managemnet System
 prerequisite:
-Eclipse – Java , Mysql – Database , Tomcat Apache - Springboot
+Visual studio code , Mysql – Database , Tomcat Apache - Springboot
